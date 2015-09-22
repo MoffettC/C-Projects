@@ -1,0 +1,9 @@
+Please input weight and height> 175 70
+BMI = 25.1, evaluation is overweight
+Please input weight and height> 120 68
+BMI = 18.2, evaluation is underweight
+Please input weight and height> 225 65
+BMI = 37.4, evaluation is obese
+Please input weight and height> 140 67
+BMI = 21.9, evaluation is normal
+

@@ -1,0 +1,4 @@
+Input the number of miles> 425.50
+Input the number of hours> 7.50
+56.73 miles per hour
+25.21 meters per second

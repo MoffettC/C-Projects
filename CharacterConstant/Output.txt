@@ -1,0 +1,15 @@
+Character           Description           Decimal           Hexadecimal
+-----------------------------------------------------------------------
+   \n                newline                10               0x00a
+   \t                horizontal tab          9               0x009
+   \v                vertical tab           11               0x00b
+   \b                backspace               8               0x008
+   \r                carriage return        13               0x00d
+   \f                form feed              12               0x00c
+   \                 backslash              92               0x05c
+   '                 single quote           39               0x027
+   "                 double quote           34               0x022
+   \0                null                    0               0x000
+
+
+

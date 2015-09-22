@@ -1,0 +1,9 @@
+Mercury: 075.6
+  Venus: 181.4
+   Mars: 074.6
+Jupiter: 472.0
+ Saturn: 183.2
+ Uranus: 177.8
+Neptune: 224.0
+
+

@@ -1,0 +1,11 @@
+Input the cost of the item> 21.17
+Input the money given> 100
+Your total change is 78.83
+You will get 3 twenties back
+You will get 1 tens back
+You will get 1 fives back
+You will get 3 ones back
+You will get 3 quarters back
+You will get 0 dimes back
+You will get 1 nickels back
+You will get 3 pennies back

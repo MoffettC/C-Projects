@@ -1,0 +1,2 @@
+Input the number of years> 50
+1576800000 heartbeats per 50 years
