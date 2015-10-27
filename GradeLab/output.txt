@@ -1,0 +1,11 @@
+Add grades here (Enter -1 to end line): 78 93 45 88 89 -1
+The average is 78.60
+
+Add grades here (Enter -1 to end line): 87 68 100 -1
+The average is 85.00
+
+Add grades here (Enter -1 to end line): 84 86 90 86 96 68 82 -1
+The average is 84.57
+
+Add grades here (Enter -1 to end line): -1
+Please enter a valid grade
